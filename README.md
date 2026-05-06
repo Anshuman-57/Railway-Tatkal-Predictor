@@ -1,4 +1,4 @@
-# 🚆 Railway Tatkal Predictor Advanced
+# 🚆 Railway Tatkal Predictor 
 
 An AI/ML-powered railway ticket prediction platform that estimates the probability of **Confirmed**, **RAC**, or **Waiting List** status for Indian railway bookings based on historical booking patterns, route demand, travel class, and timing data.
 
