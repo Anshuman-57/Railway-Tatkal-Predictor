@@ -28,7 +28,7 @@ Unlike basic student projects, this project combines:
 - Frontend dashboards
 - Data analytics
 - Real-world domain modeling
-
+  
 ---
 
 # ✨ Features
