@@ -28,7 +28,7 @@ Unlike basic student projects, this project combines:
 - Frontend dashboards
 - Data analytics
 - Real-world domain modeling
-  
+-   
 ---
 
 # ✨ Features
@@ -67,7 +67,7 @@ Unlike basic student projects, this project combines:
 - Docker support
 - Docker Compose setup
 - Production-ready architecture
-
+- 
 ---
 
 # 🏗️ System Architecture
